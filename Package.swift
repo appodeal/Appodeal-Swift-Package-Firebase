@@ -32,7 +32,7 @@ let package = Package(
         .binaryTarget(
             name: "AppodealFirebaseAdapter",
             url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealFirebaseAdapter/12.15.0.0/AppodealFirebaseAdapter.xcframework.zip",
-            checksum: "1587f73fc093bba1f75924eff0c8148a231ca6d46d8ce4e90ce24858b451be73"
+            checksum: "f6d34039e74f77c6105a5711d81196b1d498cf7675404898ecfb9ff77bd831dd"
         ),
 
     ]
