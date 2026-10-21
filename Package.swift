@@ -29,8 +29,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppodealFirebaseAdapter",
-            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealFirebaseAdapter/12.15.0.0/AppodealFirebaseAdapter.xcframework.zip",
-            checksum: "be78ab7598582f0cb3836f3f8e642acdf32772767e67002f7e50574c4c5e3621"
+            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealFirebaseAdapter/12.15.0.1/902e57f8ab33/AppodealFirebaseAdapter.xcframework.zip",
+            checksum: "902e57f8ab338569422c25aa455b9ec5fd223e1a6f56ccd9abf851d0dbfdc151"
         ),
 
     ]
